@@ -1,0 +1,21 @@
+﻿  Registration.cpp
+c:\users\solne\source\repos\курсовая работа\krclr\registration_worker.h(381): warning C4101: ch: неиспользованная локальная переменная
+c:\users\solne\source\repos\курсовая работа\krclr\registration_organization.h(262): warning C4101: ch: неиспользованная локальная переменная
+  Registration_Worker.cpp
+c:\users\solne\source\repos\курсовая работа\krclr\registration_worker.h(381): warning C4101: ch: неиспользованная локальная переменная
+  Vhod_Registration.cpp
+c:\users\solne\source\repos\курсовая работа\krclr\registration_worker.h(381): warning C4101: ch: неиспользованная локальная переменная
+c:\users\solne\source\repos\курсовая работа\krclr\registration_organization.h(262): warning C4101: ch: неиспользованная локальная переменная
+c:\users\solne\source\repos\курсовая работа\krclr\organization_lk.h(364): warning C4101: ch: неиспользованная локальная переменная
+c:\users\solne\source\repos\курсовая работа\krclr\organization_lk.h(375): warning C4101: login: неиспользованная локальная переменная
+c:\users\solne\source\repos\курсовая работа\krclr\organization_lk.h(445): warning C4101: ch: неиспользованная локальная переменная
+c:\users\solne\source\repos\курсовая работа\krclr\worker_lk.h(268): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note:  см. объявление "strtok"
+c:\users\solne\source\repos\курсовая работа\krclr\worker_lk.h(273): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note:  см. объявление "strtok"
+c:\users\solne\source\repos\курсовая работа\krclr\worker_lk.h(303): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note:  см. объявление "strtok"
+c:\users\solne\source\repos\курсовая работа\krclr\worker_lk.h(313): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note:  см. объявление "strtok"
+  Создание кода...
+  krCLR.vcxproj -> C:\Users\solne\source\repos\Курсовая работа\Debug\krCLR.exe
